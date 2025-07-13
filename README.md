@@ -19,20 +19,16 @@ The Rockbuster Stealth project analyzes data from a fictional global movie renta
 - Provide recommendations for improving customer engagement and revenue  
 - Write clean, well-documented SQL queries using joins, subqueries, CTEs, and aggregations
 
-## 🗂 Repository Structure
+## 📁 Repository Structure
 
-This repository contains the following SQL scripts:
+```
+data-structure/       # Data dictionary PDF for reference
+final-presentation/   # Final project presentation slides
+scripts/              # SQL scripts created during analysis
+sql-queries/          # Outputs and queries exported to Excel
+README.md             # Project documentation
+```
 
-sql-portfolio/
-├── data-structure/
-│   └── Rockbuster_Data_Dictionary.pdf
-├── final-presentation/
-│   └── Rockbuster_Presentation.pdf
-├── scripts/
-│   └── joining_tables.sql
-├── sql-queries/
-│   └── Rockbuster_Outputs_and_Queries.xlsx
-└── README.md
 
 
 
