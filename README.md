@@ -24,20 +24,16 @@ The Rockbuster Stealth project analyzes data from a fictional global movie renta
 This repository contains the following SQL scripts:
 
 sql-portfolio/
-│
 ├── data-structure/
 │   └── Rockbuster_Data_Dictionary.pdf
-│
 ├── final-presentation/
 │   └── Rockbuster_Presentation.pdf
-│
 ├── scripts/
 │   └── joining_tables.sql
-│
 ├── sql-queries/
 │   └── Rockbuster_Outputs_and_Queries.xlsx
-│
 └── README.md
+
 
 
 Each script includes comments explaining the logic and purpose of the query.
