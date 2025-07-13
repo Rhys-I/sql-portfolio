@@ -1,4 +1,3 @@
-# SQL Portfolio
 # SQL Portfolio – Rockbuster Stealth Project
 
 Welcome to my SQL project portfolio! This repository showcases some of the SQL queries and analyses I completed as part of Achievement 3 in the CareerFoundry Data Analytics Immersion program.
@@ -24,16 +23,22 @@ The Rockbuster Stealth project analyzes data from a fictional global movie renta
 
 This repository contains the following SQL scripts:
 
-- `joins.sql` → Queries using INNER, LEFT, RIGHT joins  
-- `ctes.sql` → Common Table Expressions (CTEs)  
-- `subqueries.sql` → Examples of subqueries in SELECT, WHERE, and FROM clauses  
-- `aggregations.sql` → Aggregate functions (SUM, COUNT, AVG, etc.) with GROUP BY  
-- `window_functions.sql` → Queries using window functions (if applicable)
-- `joins.sql` → Demonstrates INNER JOIN, LEFT JOIN, and RIGHT JOIN to combine customer, payment, rental, and film data  
-- `ctes.sql` → Uses Common Table Expressions to organize complex queries and improve readability  
-- `subqueries.sql` → Includes subqueries for calculating metrics like top countries, most common film ratings, and high-value customers  
-- `aggregations.sql` → Shows use of aggregate functions (SUM, COUNT, AVG) to summarize rental and payment data  
-- `window_functions.sql` → (Optional) If applicable, highlights ranking and windowed analysis across customer segments
+sql-portfolio/
+│
+├── data-structure/
+│   └── Rockbuster_Data_Dictionary.pdf
+│
+├── final-presentation/
+│   └── Rockbuster_Presentation.pdf
+│
+├── scripts/
+│   └── joining_tables.sql
+│
+├── sql-queries/
+│   └── Rockbuster_Outputs_and_Queries.xlsx
+│
+└── README.md
+
 
 Each script includes comments explaining the logic and purpose of the query.
 Each script includes comments explaining the purpose and logic of the query.
